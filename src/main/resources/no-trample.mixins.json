@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "package": "com.kimlan.notrample.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "FarmlandBlockMixin",
+    "TurtleEggBlockMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+	}
+}
