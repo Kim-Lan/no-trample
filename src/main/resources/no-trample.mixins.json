@@ -4,6 +4,7 @@
   "compatibilityLevel": "JAVA_21",
   "mixins": [
     "FarmlandBlockMixin",
+    "StepAndDestroyBlockGoalMixin",
     "TurtleEggBlockMixin"
   ],
   "injectors": {
